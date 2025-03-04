@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stuti-singh
-- 👀 I’m interested in solving problems..
+- 👀 I’m interested in problems-solving..
 - 🌱 I’m currently learning node.js(backend)...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ www.linkedin.com/in/stuti-singh72
